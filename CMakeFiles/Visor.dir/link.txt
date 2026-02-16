@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/Visor.dir/link.d CMakeFiles/Visor.dir/src/main.c.o -o Visor  /usr/lib/x86_64-linux-gnu/libSDL2.so

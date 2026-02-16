@@ -1,0 +1,3 @@
+/home/dio-pc/repos/ImageViewer-SDL-C/CMakeFiles/Visor.dir
+/home/dio-pc/repos/ImageViewer-SDL-C/CMakeFiles/edit_cache.dir
+/home/dio-pc/repos/ImageViewer-SDL-C/CMakeFiles/rebuild_cache.dir
